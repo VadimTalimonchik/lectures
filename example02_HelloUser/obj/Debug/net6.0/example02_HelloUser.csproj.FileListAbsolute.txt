@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\bin\Debug\net6.0\example02_HelloUser.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\bin\Debug\net6.0\example02_HelloUser.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\bin\Debug\net6.0\example02_HelloUser.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\bin\Debug\net6.0\example02_HelloUser.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\bin\Debug\net6.0\example02_HelloUser.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\refint\example02_HelloUser.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\example02_HelloUser.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example02_HelloUser\obj\Debug\net6.0\ref\example02_HelloUser.dll

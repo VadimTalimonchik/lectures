@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\bin\Debug\net6.0\example01_HelloConsole.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\bin\Debug\net6.0\example01_HelloConsole.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\bin\Debug\net6.0\example01_HelloConsole.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\bin\Debug\net6.0\example01_HelloConsole.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\bin\Debug\net6.0\example01_HelloConsole.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\refint\example01_HelloConsole.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\example01_HelloConsole.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_1_2\example01_HelloConsole\obj\Debug\net6.0\ref\example01_HelloConsole.dll
